@@ -1,4 +1,7 @@
 # TP8 DPBO 2425 - Campus (PHP MVC)
+Nama: Sardarbek Saryyev
+NIM: 2521823
+Kelas: C2
 
 Ini adalah tugas praktikum untuk mengubah project CRUD Lecturers menjadi arsitektur MVC. Selain itu saya menambahkan 2 tabel baru yaitu `departments` dan `courses`, lengkap dengan CRUD-nya.
 
